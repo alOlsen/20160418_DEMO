@@ -1,0 +1,32 @@
+@font-face {
+  font-family: myFont;
+  src: url(../fonts/spaceage.ttf);
+}
+
+body{
+	background : #fafafa;
+}
+
+.container{
+	border 	: solid 1px rgba(100,100,100,1);
+	width 	: 1024px;
+	margin 	: 0 auto;
+}
+
+.heading{
+	font-size	: 45pt;
+	color 		: #153E40;
+	font-family : myFont;
+	letter-spacing : 20px;
+	text-align 	: center;
+	font-weight : bold;
+}
+
+.deadline{
+	font-size 	: 100pt;
+	color 		: #2B7B7F;
+	font-weight : bold;
+	text-align 	: right;
+	border 		: solid 0px black;
+}
+

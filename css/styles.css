@@ -1,0 +1,31 @@
+body{
+	background-color : rgba(100,100,100,1);
+}
+
+.glass{
+	background : rgba(255,255,255,0.4);
+	width 		: 150px;
+	height 		: 150px;
+	border 		: solid 1px rgba(0,255,72,1);
+}
+
+h1{
+	color 		: #fff;
+	border 		: solid 1px red;
+	margin 		: 0px;
+}
+
+.centerMe{
+	border 	: solid 1px white;
+	color  	: white;
+	width 	: 90%;
+	margin  : 0 auto;
+
+	text-align 	: center;
+}
+
+ul{
+	border : solid 1px black;
+	padding 	: 0px;
+	list-style: none;
+}
